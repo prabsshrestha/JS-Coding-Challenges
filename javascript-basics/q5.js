@@ -1,4 +1,4 @@
-//Q5 Variable Scope Demo
+//Q5 Variable Scope
 function scopeDemo() {
   function fn() {
     var x = 'var'; 
