@@ -1,0 +1,21 @@
+{
+  "name": "js-coding-challenges",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+        "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prabsshrestha/JS-Coding-Challenges.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/prabsshrestha/JS-Coding-Challenges/issues"
+  },
+  "homepage": "https://github.com/prabsshrestha/JS-Coding-Challenges#readme"
+}
